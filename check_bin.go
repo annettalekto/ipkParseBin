@@ -1,7 +1,6 @@
 package parsebin
 
 import (
-	"common"
 	"errors"
 	"fmt"
 	"io"
@@ -9,6 +8,7 @@ import (
 	"os"
 	"time"
 
+	common "github.com/annettalekto/ipkCmn"
 	"github.com/annettalekto/ipkwiz"
 )
 
